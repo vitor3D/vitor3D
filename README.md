@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p>Systems Development Student at Etec from Peruíbe.</p>
+<p>Focused on desktop/mobile application development.</p>
+<p></p>
+<p></p>
 
 ## Learning
 
