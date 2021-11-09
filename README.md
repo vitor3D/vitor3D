@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<p>Systems Development Student at Etec from Peruíbe.</p>
-<p>Focused on desktop/mobile application development.</p>
-<p></p>
-<p></p>
+### About me!
+
+<ul>
+  <li>Systems Development Student at Etec from Peruíbe.</li>
+  <li>Focused on desktop/mobile application development.</li>
+  <li>I love sports.</li>
+  <li>I like to play League of Legends (Master Yi is my main).</li>
+</ul>
 
 ## Learning
 
